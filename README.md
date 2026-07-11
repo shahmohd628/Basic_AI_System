@@ -1,4 +1,4 @@
-# 🤖 Basic Stealth AI System
+# Basic Stealth AI System
 
 <p align="center">
 
@@ -13,12 +13,12 @@
 A <b>3D stealth AI prototype</b> developed in Unity featuring waypoint patrols, vision cone detection, line-of-sight checks, and event-driven gameplay systems.
 </p>
 
-> **📖 Learning Project**  
+> **Learning Project**  
 > This project was created by following **Sebastian Lague's** Stealth Game tutorial series. It helped me understand AI programming concepts such as waypoint navigation, player detection, line-of-sight calculations, event-driven programming, and game state management in Unity.
 
 ---
 
-# 📖 Overview
+# Overview
 
 **Basic Stealth AI System** is a 3D stealth gameplay prototype developed in Unity to learn the fundamentals of enemy AI and stealth mechanics.
 
@@ -26,7 +26,7 @@ The project demonstrates patrol behaviors, player detection using vision cones a
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 <p align="center">
     <img src="Screenshots/MainMenu.png" width="450">
@@ -46,22 +46,22 @@ The project demonstrates patrol behaviors, player detection using vision cones a
 
 ---
 
-# ✨ Features
+# Features
 
-- 🤖 Waypoint Patrol AI
-- 👁️ Vision Cone Detection
-- 🚧 Line-of-Sight Checking
-- ⏳ Progressive Player Detection
-- 🚩 Win & Lose Conditions
-- 📢 Event-Driven Gameplay
-- 🎮 Responsive Player Controls
-- 🎨 Clean UI & Menus
+-  Waypoint Patrol AI
+-  Vision Cone Detection
+-  Line-of-Sight Checking
+-  Progressive Player Detection
+-  Win & Lose Conditions
+-  Event-Driven Gameplay
+-  Responsive Player Controls
+-  Clean UI & Menus
 
 ---
 
-# 🎯 Gameplay Systems
+# Gameplay Systems
 
-### 🤖 Enemy AI
+### Enemy AI
 
 - Waypoint patrol system
 - Vision cone detection
@@ -69,20 +69,20 @@ The project demonstrates patrol behaviors, player detection using vision cones a
 - Player chasing
 - Detection timer
 
-### 🎮 Player
+### Player
 
 - Third-person movement
 - Stealth gameplay
 - Goal-based progression
 
-### ⚙️ Game Systems
+### Game Systems
 
 - Event-driven architecture
 - Win & lose states
 - Level restart
 - Game management
 
-### 🖥️ User Interface
+### User Interface
 
 - Main Menu
 - In-game UI
@@ -91,7 +91,7 @@ The project demonstrates patrol behaviors, player detection using vision cones a
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Category | Technologies |
 |----------|--------------|
@@ -103,7 +103,7 @@ The project demonstrates patrol behaviors, player detection using vision cones a
 
 ---
 
-# 🎮 Controls
+# Controls
 
 | Action | Key |
 |--------|-----|
@@ -111,7 +111,7 @@ The project demonstrates patrol behaviors, player detection using vision cones a
 
 ---
 
-# 📚 What I Learned
+# What I Learned
 
 - AI programming fundamentals
 - Waypoint navigation
@@ -123,7 +123,7 @@ The project demonstrates patrol behaviors, player detection using vision cones a
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Multiple enemy types
 - Patrol state machine
@@ -134,7 +134,7 @@ The project demonstrates patrol behaviors, player detection using vision cones a
 
 ---
 
-# 👨‍💻 My Contribution
+# My Contribution
 
 This project was completed as part of my game development learning journey.
 
@@ -148,7 +148,7 @@ This project was completed as part of my game development learning journey.
 
 ---
 
-# 🙏 Acknowledgements
+# Acknowledgements
 
 This project follows the excellent **Stealth Game** tutorial series created by **Sebastian Lague**.
 
@@ -159,5 +159,5 @@ Special thanks to **Sebastian Lague** for creating high-quality educational cont
 ---
 
 <p align="center">
-⭐ If you found this project interesting, consider giving it a star!
+ If you found this project interesting, consider giving it a star!
 </p>
